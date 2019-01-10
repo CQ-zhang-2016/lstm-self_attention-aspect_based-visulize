@@ -1,0 +1,10 @@
+numpy==1.15.1
+pandas==0.23.4
+torch==0.4.1
+jieba==0.39
+QtAwesome==0.4.4
+gensim==3.6.0
+stanfordcorenlp==3.9.1.1
+scipy==1.1.0
+PyQt5==5.11.3
+scikit_learn==0.20.2
