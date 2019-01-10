@@ -6,7 +6,7 @@
 您可能需要安装pyqt5（用于可视化）
 	清华镜像源
 您可能需要安装data（用于支持代码运行）
-	
+	https://pan.baidu.com/s/11eNPqcHR8WufsogjL5RCNA
 
 其中data包含有model.pth为已经在500w评论集上训练好的lstm+self_attention+regression_loss模型，精度0.61
 其中data包含有embedding_matrix3为在600w数据集中训练的词嵌入矩阵
